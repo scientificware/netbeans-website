@@ -62,7 +62,7 @@ NOTE: For a list of tools required for making installers for different platforms
 
 *To install Inno Setup:*
 
-1. Download  ``ispack-5.5.3.exe``  from the link:http://www.jrsoftware.org/isdl.php[+Inno Setup Downloads+] page.
+1. Download  ``innosetup-6.1.2.exe``  from the link:http://www.jrsoftware.org/isdl.php[+Inno Setup Downloads+] page.
 2. Double-click the file to launch the installer.
 3. Accept the Inno Setup license agreement and click Next.
 4. Follow the instructions in the install wizard for installing Inno Setup.
